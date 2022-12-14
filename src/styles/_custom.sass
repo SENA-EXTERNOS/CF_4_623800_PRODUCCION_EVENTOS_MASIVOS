@@ -1,14 +1,22 @@
 .banner-principal-decorativo
   &-1
+    animation: float2 3s ease-in-out infinite alternate
+    position: absolute
+    width: 25%
+    top: 25%
+    left: 0%
+  &-2
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 60%
+    right: 22%
+    width: 30%
+  &-3
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
+    top: 65%
+    right: 40%
+    width: 28%
 
 
 @keyframes float1
@@ -17,3 +25,213 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.banner-principal__img
+  width: 320px !important
+
+
+//////////////// Cajon color ----------------------------
+
+.cajon.color-primario 
+    background-color: #FFF6DB
+
+.cajon.color-acento-contenido 
+    background-color: #E2DAFC
+
+///////////////////// Trarjetas ---------------------------
+
+.tarjeta--amarilla
+  background-color: #FFF4E4
+
+.terjeta--morada
+  background-color: #DDD3FB
+  width: 260px
+  height: 270px
+
+.tarjeta-amarilla3
+  background-color: #FEEDB7
+  position: relative
+  left: 20%
+  @media (max-width: 500px)
+    left: 0%
+
+.tarjeta-amarilla4
+  background-color: #FEEDB7
+  border-bottom-left-radius: 40px
+  position: relative
+  left: 20%
+  @media (max-width: 500px)
+    left: 0%
+
+.tarjeta-morada1
+  background-color: #D7CCFB
+  border-top-left-radius: 40px
+  position: relative
+  left: 20%
+  @media (max-width: 500px)
+    left: 0%
+
+.tarjeta-morada2
+  background-color: #D7CCFB
+  position: relative
+  left: 20%
+  @media (max-width: 500px)
+    left: 0%
+
+.terjeta--morada3
+  background-color: #DDD3FB
+  width: 260px
+  height: 300px
+  @media (max-width: 500px)
+    height: 350px
+
+///////////// SlyderA ---------------------
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #8C6DF2
+  opacity: 1
+
+.slyder-a__bullets__item--active
+  background-color: #FDB74D
+  border-color: #FDB74D
+
+
+
+///// Linea tiempo D --------------------------------------
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FFF6DB
+
+.linea-tiempo-d__item__number.tarjeta.tarjeta--gris 
+  background-color: #FFF6DB !important
+
+.linea-tiempo-d__item__dots:after
+  border-left: 5px dotted #D2E1F1
+
+//////////////////// TabsC Activos-------------
+
+.tabs-c__tab--active
+  font-weight: bold
+  border-bottom: 4px solid !important
+
+//////////////////// TabsA ------------------------
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+///////////////// Bloque texto G-----------------
+
+.bloque-texto-g1__img 
+  width: 40%
+  position: absolute
+  top: 0
+  left: 0%
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media (max-width: 500px)
+    height: 250px
+    width: 100%
+    left: 0%
+
+.bloque-texto-g1__texto 
+  position: relative
+  width: 58%
+  background-color: rgba(255, 255, 255, 0.95)
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
+
+///// Custom acordeon A tipo A -------------------------------------- 
+.tarjeta--amarilla2
+  background-color: #FEDC72
+
+.acordion__accion__btn--a
+  background-color: #ffffff !important
+
+.acordion__activo
+  background-color: #8C6DF2 !important
+
+.acordion__accion__btn--a
+  color: #5038A1 !important
+
+//////////// PasosB -----------------------
+
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border-color: #FDB74D
+  background-color: #FDB74D
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+  background-color: #FDB74D
+  
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after
+  background-color: #FDB74D
+
+.pasos-b__header__btn--right:hover 
+  border-color: #FDB74D
+
+.pasos-b__header__btn--left:hover, .pasos-b__header__btn--right:hover 
+  border-color: #FDB74D
+
+
+.img-infografica__item
+  width: 5%
+
+///////////// Color --------------
+
+.img-infografica.color-secundario .img-infografica__item__dot:before
+  background-color: #FFC400
+
+.img-7-al-10
+  width: 200%
+  max-width: 400%
+  position: relative
+  right: 150%
+  @media (max-width: 500px)
+    width: 100%
+    max-width: 300%
+    position: relative
+    left: 55%
+
+.img11-tm4
+  position: relative
+  right: 30%
+  max-width: 120%
+  width: 107%
+  @media (max-width: 500px)
+    left: 0%
+    width: 100%
+
+.img4-tm5
+  position: relative
+  width: 80%
+  left: 20%
+  @media (max-width: 500px)
+    width: 100%
+    left: 0%
+
+////////////// COLOR VIÑETAS -----------------------------
+
+.color-vineta
+  color: #FEDC72 !important
+
+.color-vineta2
+  color: #12263F !important
+
+.hr
+  color: #FEDC72 !important
+  border-color: #FEDC72 !important
+
+.texto-derecha
+  position: relative
+  left: 60%
+  @media (max-width: 500px)
+    left: 0%

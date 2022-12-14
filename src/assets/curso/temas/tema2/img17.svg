@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="359" viewBox="0 0 610 359">
+  <g id="Grupo_166441" data-name="Grupo 166441" transform="translate(1753 6464)">
+    <g id="Elipse_4872" data-name="Elipse 4872" transform="translate(-1249 -6428)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" stroke-dasharray="10 18">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="29.5" fill="none"/>
+    </g>
+    <g id="Elipse_4876" data-name="Elipse 4876" transform="translate(-1198 -6346)" fill="none" stroke="#fff" stroke-width="3">
+      <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+      <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+    </g>
+    <ellipse id="Elipse_4869" data-name="Elipse 4869" cx="108.5" cy="109" rx="108.5" ry="109" transform="translate(-1536 -6105) rotate(180)" fill="#fdb74d" opacity="0.8"/>
+    <g id="Elipse_4871" data-name="Elipse 4871" transform="translate(-1647 -6141) rotate(180)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" stroke-dasharray="10 18">
+      <ellipse cx="32" cy="32.5" rx="32" ry="32.5" stroke="none"/>
+      <ellipse cx="32" cy="32.5" rx="29.5" ry="30" fill="none"/>
+    </g>
+    <circle id="Elipse_4873" data-name="Elipse 4873" cx="41.5" cy="41.5" r="41.5" transform="translate(-1670 -6274) rotate(180)" fill="#8c6df2" opacity="0.8"/>
+    <g id="Elipse_4875" data-name="Elipse 4875" transform="translate(-1698 -6224) rotate(180)" fill="none" stroke="#fff" stroke-width="3">
+      <ellipse cx="14" cy="14.5" rx="14" ry="14.5" stroke="none"/>
+      <ellipse cx="14" cy="14.5" rx="12.5" ry="13" fill="none"/>
+    </g>
+    <circle id="Elipse_4870" data-name="Elipse 4870" cx="108.5" cy="108.5" r="108.5" transform="translate(-1360 -6464)" fill="#fdb74d" opacity="0.8"/>
+    <rect id="organizadoreventos" width="466" height="275" rx="30" transform="translate(-1681 -6422)" fill="#5038a1"/>
+    <circle id="Elipse_4874" data-name="Elipse 4874" cx="41.5" cy="41.5" r="41.5" transform="translate(-1226 -6297)" fill="#8c6df2" opacity="0.8"/>
+    <g id="Grupo_166442" data-name="Grupo 166442" transform="translate(-158.025 -341.955)">
+      <g id="Rectángulo_46106" data-name="Rectángulo 46106" transform="translate(-1503.53 -6051)" fill="#5038a1" stroke="#5038a1" stroke-width="1">
+        <rect width="430.011" height="44.087" stroke="none"/>
+        <rect x="0.5" y="0.5" width="429.011" height="43.087" fill="none"/>
+      </g>
+      <text id="PRECIO_POR_PERSONA" data-name="PRECIO POR 
+PERSONA" transform="translate(-1370.684 -6047.694)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-39.249" y="13">PRECIO POR </tspan><tspan x="-31.288" y="31">PERSONA</tspan></text>
+      <text id="No._DE_PERSONAS" data-name="No. DE PERSONAS" transform="translate(-1251.648 -6047.694)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-21.126" y="13">No. DE </tspan><tspan x="-35.441" y="31">PERSONAS</tspan></text>
+      <text id="PRECIO_BRUTO" data-name="PRECIO 
+BRUTO" transform="translate(-1187.722 -6048.795)" fill="#fff" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-23.977" y="13">PRECIO </tspan><tspan x="-22.101" y="31">BRUTO</tspan></text>
+      <g id="Rectángulo_46107" data-name="Rectángulo 46107" transform="translate(-1503.53 -6008.015)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="132.669" height="39.679" stroke="none"/>
+        <rect x="0.5" y="0.5" width="131.669" height="38.679" fill="none"/>
+      </g>
+      <g id="Rectángulo_46114" data-name="Rectángulo 46114" transform="translate(-1503.53 -5969.438)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="132.669" height="24.546" stroke="none"/>
+        <rect x="0.5" y="0.5" width="131.669" height="23.546" fill="none"/>
+      </g>
+      <g id="Rectángulo_46122" data-name="Rectángulo 46122" transform="translate(-1503.53 -5946.293)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="132.669" height="40.462" stroke="none"/>
+        <rect x="0.5" y="0.5" width="131.669" height="39.462" fill="none"/>
+      </g>
+      <g id="Rectángulo_46134" data-name="Rectángulo 46134" transform="translate(-1503.53 -5870.243)" fill="#8c6df2" stroke="#5038a1" stroke-width="1">
+        <rect width="343.186" height="26.452" stroke="none"/>
+        <rect x="0.5" y="0.5" width="342.186" height="25.452" fill="none"/>
+      </g>
+      <g id="Rectángulo_46127" data-name="Rectángulo 46127" transform="translate(-1503.53 -5907.716)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="132.669" height="39.63" stroke="none"/>
+        <rect x="0.5" y="0.5" width="131.669" height="38.63" fill="none"/>
+      </g>
+      <g id="Rectángulo_46108" data-name="Rectángulo 46108" transform="translate(-1372.602 -6008.015)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="122.981" height="39.679" stroke="none"/>
+        <rect x="0.5" y="0.5" width="121.981" height="38.679" fill="none"/>
+      </g>
+      <g id="Rectángulo_46113" data-name="Rectángulo 46113" transform="translate(-1372.602 -5969.438)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="122.981" height="24.546" stroke="none"/>
+        <rect x="0.5" y="0.5" width="121.981" height="23.546" fill="none"/>
+      </g>
+      <g id="Rectángulo_46121" data-name="Rectángulo 46121" transform="translate(-1372.602 -5946.293)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="122.981" height="40.462" stroke="none"/>
+        <rect x="0.5" y="0.5" width="121.981" height="39.462" fill="none"/>
+      </g>
+      <g id="Rectángulo_46128" data-name="Rectángulo 46128" transform="translate(-1372.602 -5907.716)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="122.981" height="39.63" stroke="none"/>
+        <rect x="0.5" y="0.5" width="121.981" height="38.63" fill="none"/>
+      </g>
+      <g id="Rectángulo_46109" data-name="Rectángulo 46109" transform="translate(-1251.362 -6008.015)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="91.018" height="39.679" stroke="none"/>
+        <rect x="0.5" y="0.5" width="90.018" height="38.679" fill="none"/>
+      </g>
+      <g id="Rectángulo_46112" data-name="Rectángulo 46112" transform="translate(-1251.362 -5969.438)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="91.018" height="24.546" stroke="none"/>
+        <rect x="0.5" y="0.5" width="90.018" height="23.546" fill="none"/>
+      </g>
+      <g id="Rectángulo_46120" data-name="Rectángulo 46120" transform="translate(-1251.362 -5946.293)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="91.018" height="40.462" stroke="none"/>
+        <rect x="0.5" y="0.5" width="90.018" height="39.462" fill="none"/>
+      </g>
+      <g id="Rectángulo_46129" data-name="Rectángulo 46129" transform="translate(-1251.362 -5907.716)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="91.018" height="39.63" stroke="none"/>
+        <rect x="0.5" y="0.5" width="90.018" height="38.63" fill="none"/>
+      </g>
+      <g id="Rectángulo_46110" data-name="Rectángulo 46110" transform="translate(-1163.474 -6008.015)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="89.955" height="39.679" stroke="none"/>
+        <rect x="0.5" y="0.5" width="88.955" height="38.679" fill="none"/>
+      </g>
+      <g id="Rectángulo_46111" data-name="Rectángulo 46111" transform="translate(-1163.474 -5969.438)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="89.955" height="24.546" stroke="none"/>
+        <rect x="0.5" y="0.5" width="88.955" height="23.546" fill="none"/>
+      </g>
+      <g id="Rectángulo_46119" data-name="Rectángulo 46119" transform="translate(-1163.474 -5946.293)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="89.955" height="40.462" stroke="none"/>
+        <rect x="0.5" y="0.5" width="88.955" height="39.462" fill="none"/>
+      </g>
+      <g id="Rectángulo_46131" data-name="Rectángulo 46131" transform="translate(-1163.474 -5870.243)" fill="#8c6df2" stroke="#5038a1" stroke-width="1">
+        <rect width="89.955" height="26.452" stroke="none"/>
+        <rect x="0.5" y="0.5" width="88.955" height="25.452" fill="none"/>
+      </g>
+      <g id="Rectángulo_46130" data-name="Rectángulo 46130" transform="translate(-1163.474 -5907.716)" fill="#fff" stroke="#5038a1" stroke-width="1">
+        <rect width="89.955" height="39.63" stroke="none"/>
+        <rect x="0.5" y="0.5" width="88.955" height="38.63" fill="none"/>
+      </g>
+      <text id="Alquiler_salón_incluye_montaje_" data-name="Alquiler salón 
+(incluye montaje)" transform="translate(-1497.435 -6005.811)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="13">Alquiler salón </tspan><tspan x="0" y="28">(incluye montaje)</tspan></text>
+      <text id="Alojamiento" transform="translate(-1497.435 -5967.234)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="13">Alojamiento</tspan></text>
+      <text id="Cóctel_de_clausura_y_snack" data-name="Cóctel de clausura y snack" transform="translate(-1497.435 -5944.088)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="13">Cóctel de clausura </tspan><tspan x="0" y="28">y snack</tspan></text>
+      <text id="Total" transform="translate(-1497.435 -5863.629)" fill="#fff" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-15.552" y="13">Total</tspan></text>
+      <text id="Maestro_de_ceremonia" data-name="Maestro de ceremonia" transform="translate(-1497.435 -5905.512)" fill="#12263f" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="13">Maestro de </tspan><tspan x="0" y="28">ceremonia</tspan></text>
+      <text id="_55" data-name="55" transform="translate(-1251.648 -6005.811)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-7.861" y="13">55</tspan></text>
+      <text id="_5" data-name="5" transform="translate(-1251.648 -5967.234)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-3.931" y="13">5</tspan></text>
+      <text id="_55-2" data-name="55" transform="translate(-1251.648 -5944.088)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-7.861" y="13">55</tspan></text>
+      <text id="_2" data-name="2" transform="translate(-1251.648 -5905.512)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-3.931" y="13">2</tspan></text>
+      <text id="_1.000.000" data-name="1.000.000" transform="translate(-1156.861 -6005.811)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-62.398" y="13">1.000.000</tspan></text>
+      <text id="_150.000" data-name="150.000" transform="translate(-1362.969 -5967.234)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-50.853" y="13">150.000</tspan></text>
+      <text id="_20.000" data-name="20.000" transform="translate(-1362.969 -5944.088)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-42.991" y="13">20.000</tspan></text>
+      <text id="_200.000" data-name="200.000" transform="translate(-1362.969 -5905.512)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-50.853" y="13">200.000</tspan></text>
+      <text id="_450.000" data-name="450.000" transform="translate(-1156.861 -5967.234)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-50.853" y="13">450.000</tspan></text>
+      <text id="_1.100.000" data-name="1.100.000" transform="translate(-1156.861 -5944.088)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-62.398" y="13">1.100.000</tspan></text>
+      <text id="_2.750.000" data-name="2.750.000" transform="translate(-1156.861 -5863.629)" fill="#fff" font-size="14" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-64.36" y="13">2.750.000</tspan></text>
+      <text id="_200.000-2" data-name="200.000" transform="translate(-1156.861 -5905.512)" fill="#12263f" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-50.853" y="13">200.000</tspan></text>
+    </g>
+  </g>
+</svg>
