@@ -54,6 +54,9 @@
   background-color: #DDD3FB
   width: 260px
   height: 270px
+  @media (max-width: 500px)
+    position: relative
+    left: 9%
 
 .tarjeta-amarilla3
   background-color: #FEEDB7
@@ -91,6 +94,8 @@
   height: 300px
   @media (max-width: 500px)
     height: 350px
+    position: relative
+    left: 9%
 
 ///////////// SlyderA ---------------------
 
@@ -103,18 +108,25 @@
   border-color: #FDB74D
 
 
-
-///// Linea tiempo D --------------------------------------
-
-.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
-  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
-    background-color: #FFF6DB
-
-.linea-tiempo-d__item__number.tarjeta.tarjeta--gris 
-  background-color: #FFF6DB !important
-
-.linea-tiempo-d__item__dots:after
-  border-left: 5px dotted #D2E1F1
+//custom lineaTiempoD------------------------------------------
+//color item inactivo
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+  background-color: #F6F6F6 !important
+//color botones inactivos
+.tarjeta--gris 
+  background-color: #F6F6F6   
+//color item activo
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected .linea-tiempo-d__item__content.tarjeta.tarjeta--gris 
+  background-color: #fff6db !important 
+//color botones activos
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+  background-color: #fff6db
+//----------------------------------------------------------
+  
+@media (max-width: 412px)
+  .linea-tiempo-d__item__content__title 
+    height: 85px !important 
+//--------------------------------------------------      
 
 //////////////////// TabsC Activos-------------
 
@@ -235,3 +247,12 @@
   left: 60%
   @media (max-width: 500px)
     left: 0%
+  
+.texto-izquierda
+  position: relative
+  right: 6%
+  @media (max-width: 500px)
+    left: 30%
+
+.tabs-a.color-acento-contenido .tabs-a__tab:focus
+    color: #ffffff

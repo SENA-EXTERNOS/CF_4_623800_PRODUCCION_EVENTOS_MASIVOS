@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 1
+        span.texto-blanco 1
       h1 Presupuesto de eventos
 
 
@@ -59,7 +59,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img5.svg', alt='')
       .col-lg-6.mt-3   
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-secundario
           .row(numero="1" titulo="Aspecto 1")
             p El presupuesto es un plan que manifiesta lo que la organización trata de realizar.
 
@@ -82,7 +82,7 @@
             p Debe ser flexible para que permita las revisiones, ajustes y cambios requeridos en el momento necesario.
 
       .col-lg-6.mt-4    
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-secundario
           .row(numero="8" titulo="Aspecto 8")
             p La optimización de recursos es fundamental tanto para su obtención como para su ejecución.
 

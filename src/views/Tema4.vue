@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 4
+        span.texto-blanco 4
       h1 Impuestos tributarios
 
     .row.justify-content-center.my-5
@@ -53,7 +53,14 @@
           .row.justify-content-center
             .col-lg-5.mt-4
               h4 Impuesto al valor agregado (IVA)
-              p Fue creado mediante la Ley 3288 de 1963. Se paga al comprar un bien o servicio y depende del valor de lo que se adquiere. La tarifa en Colombia de este impuesto es del 19 %, y su recaudo se destina a satisfacer las necesidades de la población, especialmente alimentación, vivienda, educación y salud. Los bienes y servicios con este impuesto pueden ser: a) gravados, lo que significa que se les aplica una tarifa; b) excluidos, no causan impuestos sobre las ventas por disposición legal; c) exentos, su porcentaje es 0 %, es decir, no se efectúa pago, y d) no sometidos, es decir, no están catalogados en el régimen del impuesto a la venta. En el material complementario podrás ver un video (SENA, 2021d) que explica cómo los contribuyentes inscritos como declarantes del IVA deben diligenciar el formulario correspondiente. https://www.youtube.com/watch?v=rNQHO71sACo.
+              p Fue creado mediante la Ley 3288 de 1963. Se paga al comprar un bien o servicio y depende del valor de lo que se adquiere. La tarifa en Colombia de este impuesto es del 19 %, y su recaudo se destina a satisfacer las necesidades de la población, especialmente alimentación, vivienda, educación y salud.
+              p Los bienes y servicios con este impuesto pueden ser: a) gravados, lo que significa que se les aplica una tarifa; b) excluidos, no causan impuestos sobre las ventas por disposición legal; c) exentos, su porcentaje es 0 %, es decir, no se efectúa pago, y d) no sometidos, es decir, no están catalogados en el régimen del impuesto a la venta.
+              p En el material complementario podrás ver un video (SENA, 2021d) que explica cómo los contribuyentes inscritos como declarantes del IVA deben diligenciar el formulario correspondiente. 
+              a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=rNQHO71sACo" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto
+                  p https://www.youtube.com/watch?v=rNQHO71sACo
 
             .col-lg-6.mt-5
               figure
@@ -95,7 +102,7 @@
                 img(src='@/assets/curso/temas/tema4/img6.svg', alt='') 
 
     .row.my-5
-      b Impuestos departamentales: como su nombre lo indica, son impuestos que se fijan en cada departamento.
+      p #[strong Impuestos departamentales:] como su nombre lo indica, son impuestos que se fijan en cada departamento.
       p.text-center.mt-4 Entre estos encontramos:
 
 
@@ -106,7 +113,7 @@
             .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema4/img7.svg', alt='').img-7-al-10          
-            .col-lg-6
+            .col-lg-6.mt-3
               b Impuesto al consumo de cerveza, licores, cigarrillos y tabaco.
 
         .tarjeta-amarilla3.p-4
@@ -114,24 +121,24 @@
             .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema4/img8.svg', alt='').img-7-al-10          
-            .col-lg-6
-              b Impuesto al consumo de cerveza, licores, cigarrillos y tabaco.
+            .col-lg-6.mt-4
+              b Impuesto al registro.
 
         .tarjeta-morada2.p-4
           .row
             .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema4/img9.svg', alt='').img-7-al-10           
-            .col-lg-6
-              b Impuesto al consumo de cerveza, licores, cigarrillos y tabaco.
+            .col-lg-6.mt-4
+              b Sobretasa a la gasolina.
 
         .tarjeta-amarilla4.p-4
           .row
             .col-6.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema4/img10.svg', alt='').img-7-al-10          
-            .col-lg-6
-              b Impuesto al consumo de cerveza, licores, cigarrillos y tabaco.
+            .col-lg-6.mt-4
+              b Impuesto a los vehículos.
 
       .col-8.col-lg-5
         figure

@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 5
+        span.texto-blanco 5
       h1 Normativa de espectáculos públicos y derechos de autor
 
     .row.my-5
@@ -59,28 +59,34 @@
               p #[strong Sobre derechos de autor:] Protege las formas literarias, plásticas o sonoras que recogen, describen, ilustran o explican las ideas científicas y las obras literarias y artísticas.
               p La ley protege los derechos morales, los derechos patrimoniales y su duración. Los primeros son, a grandes rasgos y entre otros, el derecho de paternidad (que el nombre del autor o su seudónimo siempre aparezca al pie de la obra, a menos que él no lo desee); de integridad (que la obra se conozca tal y como la concibió el autor), y de divulgación (el autor es el único que puede decidir si quiere que el público conozca o no su obra).
               p Los derechos patrimoniales son aquellos que le permiten al autor controlar aspectos económicos de su obra durante su vida, y en Colombia, ochenta años después de su muerte.
-              p Le sugerimos consultar muy bien esta ley y visitar la página web de la Dirección Nacional de Derechos de Autor http://derechodeautor.gov.co:8080/campus-virtual, donde además de encontrar información sobre el tema, también puede tomar de manera gratuita cursos al respecto.
+              p Le sugerimos consultar muy bien esta ley y visitar la página web de la Dirección Nacional de Derechos de Autor 
+              a.anexo.mb-4.mb-lg-0(href="http://derechodeautor.gov.co:8080/campus-virtual," target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-link.svg")
+                .anexo__texto
+                  p http://derechodeautor.gov.co:8080/campus-virtual,
+              p donde además de encontrar información sobre el tema, también puede tomar de manera gratuita cursos al respecto.
 
     .row.my-5
       p.text-center A continuación, encuentra una plantilla para la elaboración del presupuesto de un evento:
 
     .row.justify-content-center.my-5
       .col-lg-10
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.color-primario.p-3
           .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
+            .col-6.col-sm-2.col-lg-2.mb-3
               img(src="@/assets/curso/temas/tema5/img4.svg").img4-tm5
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Anexo 1_ Plantilla evento Excel
                   p (tomada de Ingenieradmenu.com) que puede servir de guía.
-                .col-sm-auto
+                .col-sm-auto.texto-izquierda
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1_ Plantilla_PresupuestoEvento.XLS')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
-    .row.my-5
+    .row.mb-5
       p Para un estudio completo de este y los demás temas abordados en este componente formativo, recuerde explorar todos los recursos disponibles en el menú principal, tales como material complementario, actividad didáctica y glosario, entre otros.
 
 

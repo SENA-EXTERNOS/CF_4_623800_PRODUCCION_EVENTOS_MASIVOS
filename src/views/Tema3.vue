@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
+        span.texto-blanco 3
       h1 Fuentes de ingreso
 
     .row.justify-content-center.my-5
@@ -174,7 +174,7 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema3/img13.svg', alt='')
-              figcaption Fuente: Elaboración propia
+              figcaption.mt-3 Fuente: Elaboración propia
 
           .tarjeta.color-primario.p-3(x="1%" y="63%" numero="+")
             h4.mb-2.text-center #[i Venture capital]

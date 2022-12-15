@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
+        span.texto-blanco 2
       h1 Elementos del presupuesto
 
     .row.my-5
@@ -13,11 +13,9 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img1.svg')})`}"
         )
         .bloque-texto-g1__texto.p-2
-          p.mb-0 Para elaborar un presupuesto de eventos es importante tener claro cuáles son todos los elementos que se requieren para su desarrollo e implementación en cada una de sus fases, con el fin de establecer con mucha claridad todos los rubros que se necesitan para llevarlo a cabo con éxito. Estos se verán a continuación. 
-          br
-          b Costo o costes
-          br
-          p Para definir el costo del servicio de organización de eventos, se deben determinar los recursos requeridos para prestarlo y todos los aspectos exigibles de este, así como todo lo que el organizador debe contemplar para sus gastos de mantenimiento.
+          p.mb-3 Para elaborar un presupuesto de eventos es importante tener claro cuáles son todos los elementos que se requieren para su desarrollo e implementación en cada una de sus fases, con el fin de establecer con mucha claridad todos los rubros que se necesitan para llevarlo a cabo con éxito. Estos se verán a continuación. 
+          b.mt-3 Costo o costes
+          p.mt-3 Para definir el costo del servicio de organización de eventos, se deben determinar los recursos requeridos para prestarlo y todos los aspectos exigibles de este, así como todo lo que el organizador debe contemplar para sus gastos de mantenimiento.
 
     .row.my-5
       p Los costos se definen como lo que cuestan los insumos, como alimentos, recursos técnicos, alojamiento, transporte, talento humano, etc. Es decir, todo lo que se necesita para producir el evento. La importancia del costo es calcular el precio adecuado de los recursos que se van a utilizar y los servicios que exija el evento, adicionalmente, conocer qué servicios producen utilidades o pérdidas, y en qué magnitud. Los costos pueden ser fijos, variables, directos o indirectos, como se describe a continuación.
@@ -217,7 +215,7 @@
       .col-lg-4
         p Otros de los rubros que se deben considerar en la elaboración de un presupuesto, son:
         b Los gastos:
-        p El gasto es un intercambio monetario, la acción de dar algo a cambio de un producto o servicio de manera premeditada, muy diferente a las compras que hacen parte de las obligaciones de la empresa u organización. Un gasto es voluntario, ya que se puede decidir si consumir o no el servicio o producto. Por ejemplo, cuando se realizan eventos comerciales estos se financian con un gasto voluntario de las empresas, con el propósito de, mayoritariamente, posicionar su marca haciéndole publicidad durante dichos eventos.
+        p.mt-3 El gasto es un intercambio monetario, la acción de dar algo a cambio de un producto o servicio de manera premeditada, muy diferente a las compras que hacen parte de las obligaciones de la empresa u organización. Un gasto es voluntario, ya que se puede decidir si consumir o no el servicio o producto. Por ejemplo, cuando se realizan eventos comerciales estos se financian con un gasto voluntario de las empresas, con el propósito de, mayoritariamente, posicionar su marca haciéndole publicidad durante dichos eventos.
 
       .col-8.col-lg-3.my-5
         figure
@@ -299,19 +297,19 @@
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/_cXcHSVingo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.my-5
+    .row.my-3
       p La fijación de precios cuenta con diez métodos, como lo muestra la Figura 1.
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.my-5
+        .titulo-sexto.color-acento-contenido
           h5 Figura 1. 
           span #[i Métodos de fijación de precios] 
 
       .col-lg-10
         figure
           img(src='@/assets/curso/temas/tema2/img25.svg', alt='')
-          figcaption Fuente: Elaboración propia   
+          figcaption.mt-3 Fuente: Elaboración propia   
 
     .row.my-5
       p Veamos a continuación los elementos del presupuesto.
@@ -356,8 +354,13 @@
     .row.justify-content-center.my-5
       .col-lg-10
         .cajon.color-acento-contenido.p-3
-          p Excel es una de las herramientas más utilizadas para la elaboración de cualquier presupuesto, entre ellos, el de ventas. Con esta herramienta se puede vincular cada uno de los criterios y rubros de costos totales, ver de manera organizada todo lo que se debe invertir y tener un control del presupuesto. Te invitamos a ver en el material complementario, una plantilla que te ayudará a elaborar un presupuesto para un evento (Ortega, 2022): #[strong https://ingenieriademenu.com/presupuesto-de-un-evento/.]
-          b 
+          p Excel es una de las herramientas más utilizadas para la elaboración de cualquier presupuesto, entre ellos, el de ventas. Con esta herramienta se puede vincular cada uno de los criterios y rubros de costos totales, ver de manera organizada todo lo que se debe invertir y tener un control del presupuesto. Te invitamos a ver en el material complementario, una plantilla que te ayudará a elaborar un presupuesto para un evento (Ortega, 2022):
+          a.anexo.mb-4.mb-lg-0(href="https://ingenieriademenu.com/presupuesto-de-un-evento/." target="_blank")
+            .anexo__icono
+              img(src="@/assets/template/icono-link.svg")
+            .anexo__texto
+              p https://ingenieriademenu.com/presupuesto-de-un-evento/.
+
 
 </template>
 

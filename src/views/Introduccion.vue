@@ -6,11 +6,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span
-          i.fas.fa-info
+          i.fas.fa-info.texto-blanco
       h1 Introducción
 
     .row.my-5
-      .col-lg-6
+      .col-lg-6.mb-4
         .cajon.color-primario.p-3
           p Estimado aprendiz, le damos la bienvenida. Aquí se tratará sobre el presupuesto aplicado a la organización de eventos. Este aspecto se debe considerar desde la fase de producción hasta la posproducción de este tipo de actividades, pues de ello depende que se cumpla con el objetivo planteado para su desarrollo. Tener las cuentas claras ayudará a evaluar la rentabilidad de la operación, y verificar que el valor cobrado a su cliente es adecuado para cumplir con los compromisos financieros, entre ellos el pago a proveedores, dejando el margen de utilidad deseado.
           p El siguiente video amplía un poco más lo que se abordará en esta experiencia de aprendizaje. ¡Muchos éxitos en su desarrollo! 
@@ -19,7 +19,7 @@
         figure
           img(src='@/assets/curso/temas/introduccion/img1.svg', alt='')                  
 
-    .row.my-5(data-aos="fade-up")
+    .row.my-5(data-aos="fade-down")
       figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
