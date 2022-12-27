@@ -256,7 +256,7 @@ export default {
     {
       referencia:
         'Blog | Clavijo, C. (2022). “Fijación de precios. Definición, factores y objetivos” [blog]. HubSpot.',
-      link: 'https://blog.hubspot.es/sales/que-es-fijacion-de-precios.',
+      link: 'https://blog.hubspot.es/sales/que-es-fijacion-de-precios',
     },
     {
       referencia:
@@ -375,7 +375,7 @@ export default {
     },
     {
       referencia:
-        'Página web | Saber Más, Ser Más (s. f.). ¿Qué es el IVA? Asobancaria, Saber Más, Ser más.',
+        'Página web | Saber Más, Ser Más (s. f.). <i>¿Qué es el IVA?</i> Asobancaria, Saber Más, Ser más.',
       link: 'https://www.sabermassermas.com/que-es-el-iva/.',
     },
     {

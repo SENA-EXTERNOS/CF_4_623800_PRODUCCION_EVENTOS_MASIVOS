@@ -177,7 +177,7 @@
               figcaption.mt-3 Fuente: Elaboración propia
 
           .tarjeta.color-primario.p-3(x="1%" y="63%" numero="+")
-            h4.mb-2.text-center #[i Venture capital]
+            h4.mb-2.text-center #[i Venture] capital
             p Compra acciones de una empresa por un tiempo determinado.
 
           .tarjeta.color-primario.p-3(x="4%" y="30%" numero="+")
