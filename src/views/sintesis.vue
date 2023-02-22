@@ -3,11 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 Estimado aprendiz, a continuación, en la Figura 3 puede ver una síntesis de este componente formativo, con las ideas principales y los temas desarrollados.
-
-    .titulo-sexto.color-acento-contenido.my-5
-      h5 Figura 3. 
-      span #[i Síntesis del componente formativo] 
+    p.mb-5 Estimado aprendiz, a continuación, puede ver una síntesis de este componente formativo, con las ideas principales y los temas desarrollados.
 
     .row.justify-content-center
       .col-lg-10.mb-5

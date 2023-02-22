@@ -18,8 +18,9 @@
           p.mt-3 Para definir el costo del servicio de organización de eventos, se deben determinar los recursos requeridos para prestarlo y todos los aspectos exigibles de este, así como todo lo que el organizador debe contemplar para sus gastos de mantenimiento.
 
     .row.my-5
-      p Los costos se definen como lo que cuestan los insumos, como alimentos, recursos técnicos, alojamiento, transporte, talento humano, etc. Es decir, todo lo que se necesita para producir el evento. La importancia del costo es calcular el precio adecuado de los recursos que se van a utilizar y los servicios que exija el evento, adicionalmente, conocer qué servicios producen utilidades o pérdidas, y en qué magnitud. Los costos pueden ser fijos, variables, directos o indirectos, como se describe a continuación.
-      p.mt-3 #[strong Costos fijos:] independientemente de la cantidad de personas que asistan al evento, estos costos no varían.
+      p Los costos se definen como lo que cuestan los insumos, por ejemplo, alimentos, recursos técnicos, alojamiento, transporte, talento humano, etc. Es decir, todo lo que se necesita para producir el evento. La importancia del costo, es calcular el precio adecuado de los recursos que se van a utilizar y los servicios que exija el evento; adicionalmente, conocer ¿qué servicios producen utilidades o pérdidas?, y ¿en qué magnitud?. Los costos pueden ser fijos, variables, directos o indirectos, como se describe, a continuación.
+      p.mt-3 #[strong Costos fijos:] independiente de la cantidad de personas que asistan al evento, estos costos no varían.
+
       p.text-center.mt-3 Dentro de los costos fijos podemos encontrar:
 
 
@@ -95,7 +96,7 @@
           p.text-center Seguros.
 
     .row.my-5
-      p.text-center Veamos a continuación los otros tipos de costos.
+      p.text-center Veamos a continuación, los otros tipos de costos:
 
     .row.justify-content-center.my-5
       .col-lg-4.my-3(data-aos="fade-right")
@@ -110,7 +111,7 @@
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img13.svg')})`}")
             .tarjeta-flip__contenido.p-4.p-xl-5
-              p.my-5 Costos directos, que tienen que ver o se relacionan directamente con el evento, como publicidad, alojamiento y alimentación.
+              p.my-5 Costos directos que tienen que ver o se relacionan directamente con el evento, como publicidad, alojamiento y alimentación.
 
 
       .col-lg-4.my-3(data-aos="fade-left")
@@ -121,7 +122,7 @@
               p.texto-blanco.mt-4 Costos indirectos que no se relacionan directamente con el evento, pero se requieren para la realización de este, como servicios públicos de oficina, sueldo del personal, pago de impuestos y licencias.
 
     .row.my-5
-      p Para mayor claridad en el tema de los costos de eventos, a continuación, se muestra un ejemplo donde se identifican cuáles pueden ser los costos fijos, los variables, los directos y los indirectos.
+      p Para mayor claridad con relación a los costos de eventos, a continuación, se muestra un ejemplo donde se identifican cuáles pueden ser los costos fijos, los variables, los directos y los indirectos.
       p.text-center El ejemplo es el siguiente:
 
       .tarjeta.tarjeta--amarilla.p-4.mt-4
@@ -183,16 +184,16 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  | Los costos fijos son el alquiler del salón y el maestro de ceremonias, puesto que su precio no varía según el número de personas que asisten al evento.
+                  | Los <b>costos fijos</b> son el alquiler del salón y el maestro de ceremonias, puesto que, su precio no varía según el número de personas que asisten al evento.
                 li 
                   i.fas.fa-check
-                  | Los costos variables son los precios correspondientes al alojamiento, el coctel y los pasabocas, puesto que el precio varía según el número de personas que asisten al evento.
+                  | Los <b>costos variables</b> son los precios correspondientes al alojamiento, el cóctel y los pasabocas, puesto que, el precio varía según el número de personas que asisten al evento.
                 li 
                   i.fas.fa-check
-                  | Los costos directos son todos los relacionados directamente con el evento, esto es, el alquiler del salón, el alojamiento, el coctel, los pasabocas y el maestro de ceremonias.
+                  | Los <b>ostos directos</b> son todos los relacionados directamente con el evento, esto son, el alquiler del salón, el alojamiento, el cóctel, los pasabocas y el maestro de ceremonias.
                 li 
                   i.fas.fa-check
-                  | Los costos indirectos son los servicios de la oficina y el sueldo de los empleados de la empresa organizadora del evento.
+                  | Los <b>costos indirectos</b> son los servicios de la oficina y el sueldo de los empleados de la empresa organizadora del evento. 
 
             .col-lg-6.mt-4
               figure
@@ -227,7 +228,7 @@
 
 
     .row.my-3
-      p.text-center Estos son:
+      p.text-center A continuación, veremos los gastos según el tipo de evento:
 
 
     .row.my-5
@@ -239,7 +240,7 @@
                 img(src='@/assets/curso/temas/tema2/img21.svg', alt='')
 
             .col-lg-5.mt-5
-              p En este tipo de eventos lo que más se gasta es en comida y bebidas, un criterio que todos los asistentes tienen muy en cuenta y que hace que el evento sea o no atractivo. Lo ideal es generar en los asistentes una experiencia culinaria agradable.
+              p En este tipo de eventos se gasta más en <b>comida</b> y <b>bebidas</b>, un criterio que todos los asistentes tienen muy en cuenta y que hace que el evento sea o no atractivo. Lo ideal, es generar en los asistentes una <b>experiencia culinaria agradable</b>.
 
         .py-3.py-md-4(titulo="Virtuales")
           .row.justify-content-center
@@ -275,7 +276,7 @@
       .col-lg-6
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--amarilla2")
           .row(titulo="Utilidad marginal")
-            p Es la disminución de la satisfacción por el consumo de un bien o servicio. Para una mayor claridad, vamos a ver un ejemplo. Cuando se tiene un antojo de comer chocolates y se compra una caja, el primero de estos dará una gran satisfacción, pero a medida que se van consumiendo, el deseo va disminuyendo hasta llegar al punto de satisfacción, y por lo tanto, no se seguirán consumiendo.
+            p Utilidad marginal: es la <b>disminución de la satisfacción por el consumo de un bien o servicio</b>. Para una mayor claridad, vamos a ver un ejemplo: cuando se tiene un antojo de comer chocolates y se compra una caja, el primero de estos dará una gran satisfacción, pero a medida que se van comiendo, el deseo va disminuyendo hasta llegar al punto de satisfacción, y, por lo tanto, no se seguirán consumiendo.
           
           .row(titulo="Utilidad total (o bruta)")
             p Es la que se obtiene del total de las ventas de un producto durante un periodo fijo, luego de restar los costos y gastos para producirlo durante ese mismo periodo.
@@ -284,7 +285,7 @@
             p Ganancias que las empresas obtienen después de que se hacen todos los descuentos correspondientes.
           
     .row.my-5
-      p Volviendo a la utilidad desde el punto de vista económico, esto es, la satisfacción que obtiene alguien de un producto, esta es muy importante para las empresas porque les permite conocer el nivel de satisfacción de los clientes. Si lo enfocamos en los eventos, la utilidad nos ayudará a conocer el nivel de satisfacción de los asistentes y generar acciones correctivas o de refuerzo, según sea el caso.
+      p La utilidad desde el punto de vista económico, es la satisfacción que obtiene alguien de un producto; de gran importancia para las empresas, porque les permite conocer el nivel de satisfacción de los clientes. Con relación a los eventos, la utilidad nos ayudará a conocer el nivel de satisfacción de los asistentes y generar acciones correctivas o de refuerzo, según sea el caso.
       b.mb-4 La fijación de precios
       p Permite determinar cuál será la remuneración económica que una empresa tendrá por los productos o servicios que ofrece. Es importante tener en cuenta que en la fijación del precio entran factores como los costos, la competencia, las condiciones del mercado y la marca, entre otros.
 
@@ -298,18 +299,12 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/_cXcHSVingo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.my-3
-      p La fijación de precios cuenta con diez métodos, como lo muestra la Figura 1.
+      p La fijación de precios cuenta con diez métodos, como lo muestra la siguiente figura: 
 
     .row.justify-content-center
       .col-lg-10
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 1. 
-          span #[i Métodos de fijación de precios] 
-
-      .col-lg-10
         figure
           img(src='@/assets/curso/temas/tema2/img25.svg', alt='')
-          figcaption.mt-3 Fuente: Elaboración propia   
 
     .row.my-5
       p Veamos a continuación los elementos del presupuesto.

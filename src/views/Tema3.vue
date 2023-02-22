@@ -10,7 +10,7 @@
     .row.justify-content-center.my-5
       .col-lg-6.my-4
         p La fuente de ingreso es de donde se obtendrá el capital o la inversión para que el evento se pueda llevar a cabo. Se define según el tipo de evento y puede provenir de espacios publicitarios, actividades especiales, venta de comidas y bebidas, concesiones para vender artículos promocionales, donativos o patrocinios, venta de módulos de exposición, venta de revistas especializadas, libros y productos, entre otros.
-        p Veamos más acerca de las formas para obtener financiación, en el siguiente video.
+        p Veamos más acerca de las formas para obtener financiación en el siguiente video.
 
       .col-lg-6
         figure
@@ -66,7 +66,7 @@
 
           .col-lg-7.my-5
             h4 Artístico
-            p Tiene que ver con el arte contemporáneo.       
+            p Este tipo de patrocinio tiene que ver con el que se realiza al arte contemporáneo.      
 
         .row.justify-content-center(titulo="")
           .col-8.col-lg-3
@@ -76,7 +76,7 @@
 
           .col-lg-7.my-5
             h4 Social
-            p Apoyo a causas benéficas de entidades públicas y ONG.
+            p Aquí, encontramos los relacionados con el apoyo a causas benéficas de entidades públicas y ONG.
  
         .row.justify-content-center(titulo="")
           .col-8.col-lg-3
@@ -96,7 +96,7 @@
 
           .col-lg-7.my-5
             h4 De entretenimiento
-            p Relacionado con los pasatiempos que están de moda en la actualidad, como cine, televisión, música moderna y todo lo referido a un objetivo lúdico. 
+            p Abarca lo que tiene que ver con los pasatiempos que están de moda en la actualidad, como cine, televisión, música moderna y todo lo referido a un objetivo lúdico. 
  
         .row.justify-content-center(titulo="")
           .col-8.col-lg-3
@@ -130,8 +130,7 @@
 
     .row.my-5
       p Hay otra categoría de patrocinios, esta vez según el tenedor de los derechos.
-      p.text-center.mt-3 Los patrocinios según el tenedor de derechos pueden ser:
-
+      p.text-center.mt-3 Los diferentes patrocinios según el poseedor de derechos pueden ser: 
 
     .row.justify-content-center.my-5
       .col-lg-5.mb-4
@@ -143,38 +142,30 @@
             p Tienen que ver con un personaje o artista específico. El mismo individuo es la marca y es muy popular. Con el patrocinio del buen nombre se pretende atraer a clientes o asistentes. 
           
           .row(titulo="De eventos y equipos")
-            p En los eventos tiene que ver con cualquier encuentro social, como exposiciones y galas, y en los equipos se relaciona especialmente con el deporte, como el patrocinio a clubes de fútbol.
+            p En los eventos está relacionado con cualquier encuentro social, como exposiciones y galas; en los equipos está ligado con el deporte, como por ejemplo, el patrocinio a clubes de fútbol.
           
           .row(titulo="De competiciones")
-            p Incluye todo lo relacionado con campeonatos, ligas y torneos.
+            p Incluye todo lo relacionado con campeonatos, ligas y torneos deportivos.
      
           .row(titulo="De federaciones, asociaciones y selecciones")
-            p Se vincula el patrocinio a los entes de la competición y la práctica.
+            p Se vincula el patrocinio a los entes de la competición y la práctica deportiva.
      
           .row(titulo="Derechos de denominación comercial")
-            p Quiere decir que la marca, empresa o entidad adquiere el derecho de nombrar un lugar o evento, por un periodo de tiempo. 
+            p Se refiere a que la marca, empresa o entidad adquiere el derecho de nombrar un lugar o evento, por un periodo determinado de tiempo. 
 
           .row(titulo="El evento propio")
             p Como lo dice su nombre, es la creación de un evento propio que permite tener la imagen controlada.
      
     .row.my-5
-      p También es importante tener claridad sobre cuáles son los tipos de alianzas que se pueden dar, como se ve en la Figura 2.
-      p.text-center.mt-3 Los tipos de alianzas pueden ser:
-
-    .row.justify-content-center.my-3
-      .col-lg-8
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 2. 
-          span #[i Tipos de alianza]
-
-
+      p También es importante tener claridad sobre ¿cuáles son los tipos de alianzas que se pueden dar?, cómo se ve a continuación. 
+      p.text-center.mt-3 Los diferentes tipos de alianzas pueden ser:
     .row.justify-content-center.my-5
       .col-lg-8
         ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema3/img13.svg', alt='')
-              figcaption.mt-3 Fuente: Elaboración propia
+
 
           .tarjeta.color-primario.p-3(x="1%" y="63%" numero="+")
             h4.mb-2.text-center #[i Venture] capital

@@ -10,7 +10,7 @@
     .row.justify-content-center.my-5
       .col-lg-6
         .cajon.color-primario.p-3
-          p Los impuestos son tributos que pagan las personas naturales o jurídicas al Estado para costear las necesidades y obligaciones públicas que afectan a toda la población. Es importante conocer sobre los impuestos, puesto que la gran mayoría tiene incidencia en la compra, adquisición o alquiler de suministros y espacios para llevar a cabo un evento. A continuación, podrá visualizar en el siguiente video (SENA, 2021c) una breve historia sobre los impuestos:
+          p Los impuestos son tributos que pagan las personas naturales o jurídicas al Estado, para costear las necesidades y obligaciones públicas que afectan a toda la población. Es importante conocer sobre los impuestos, ya que la gran mayoría tiene incidencia en la compra, adquisición o alquiler de suministros y espacios para llevar a cabo un evento. A continuación, podrá visualizar en el siguiente video (SENA, 2021c) una breve historia sobre los impuestos: 
 
       .col-lg-6
         figure
@@ -41,8 +41,7 @@
               p Se aplican al valor de un producto o servicio, y no se tiene en cuenta la capacidad de pago de las personas naturales o jurídicas. Entre ellos está el muy conocido impuesto al valor agregado (IVA) y el impuesto nacional de consumo.
 
     .row.my-5
-      p Los impuestos pueden variar dependiendo la zona de acción. En Colombia hay impuestos nacionales, departamentales y distritales. 
-      p Enseguida se abordarán algunos de ellos.
+      p Los impuestos pueden variar dependiendo de la zona de acción. En Colombia hay impuestos nacionales, departamentales y distritales. 
       p #[strong Impuestos nacionales:] los establece el Poder Ejecutivo y son avalados por el Congreso de la República.
 
     .row.my-3
@@ -69,14 +68,15 @@
           .row.justify-content-center
             .col-lg-5.mt-4
               h4 Impuesto de renta
-              p Grava tanto a personas naturales como jurídicas de acuerdo con sus ingresos anuales, si estos ingresos son susceptibles de generar riqueza o incrementar el patrimonio. Las personas jurídicas siempre serán declarantes, mientras que las naturales solo lo serán en caso de que su patrimonio, sus ingresos, sus consumos con tarjetas de crédito, o lo consignado en sus cuentas, sea mayor a los topes establecidos por la ley para quedar exentos de ese pago. Este impuesto tiene dos categorías:
+              p Grava tanto a personas naturales como jurídicas, de acuerdo con sus ingresos anuales, si estos ingresos son susceptibles de generar riqueza o incrementar el patrimonio. Las personas jurídicas siempre serán declarantes, mientras que las naturales solo lo serán en caso de que su patrimonio, sus ingresos, sus consumos con tarjetas de crédito, o lo consignado en sus cuentas sea mayor a los topes establecidos por la ley para quedar exentos de ese pago. Este impuesto tiene dos categorías:
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  | Rentas de capital, que vienen de las ganancias de los bienes que una persona tiene, por ejemplo actividades industriales, comerciales o mineras.
+                  | Rentas de capital: que vienen de las ganancias de los bienes que una persona tiene, por ejemplo actividades industriales, comerciales o mineras.
                 li 
                   i.fas.fa-check
-                  | Rentas del trabajo, que aplica para personas naturales, como trabajadores independientes y pensionados por los ingresos obtenidos.  
+                  | Rentas del trabajo: que aplica para personas naturales, como trabajadores independientes y pensionados por los ingresos obtenidos.
+
               p Las personas naturales y jurídicas deben presentar la declaración de renta una vez al año. Cada contribuyente declara en el formulario sus ingresos, egresos e inversiones, calcula el impuesto que le corresponde pagar y lo presenta ante la Dirección de Impuestos y Aduanas Nacionales (DIAN). 
 
             .col-lg-6.mt-5
@@ -103,7 +103,7 @@
 
     .row.my-5
       p #[strong Impuestos departamentales:] como su nombre lo indica, son impuestos que se fijan en cada departamento.
-      p.text-center.mt-4 Entre estos encontramos:
+      p.text-center.mt-4 Entre los impuestos departamentales encontramos:
 
 
     .row.justify-content-center.my-5
@@ -146,7 +146,7 @@
 
     .row.my-5
       p Por su parte, los #[strong impuestos municipales] son los que fija cada municipio.
-      p.text-center.mt-3 Entre ellos encontramos:
+      p.text-center.mt-3 Entre los impuestos municipales están:
 
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.terjeta--morada3.p-4
@@ -193,7 +193,7 @@
       .col-lg-10
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--amarilla2")
           .row.justify-content-center.p-lg-4(titulo="Impuesto de industria y comercio ICA ")
-            p Este impuesto lo pagan las personas naturales y jurídicas que desarrollen alguna actividad industrial, comercial o prestación de servicios. Es un impuesto territorial, lo que significa que cada municipio tiene su propia regulación. El artículo 32 de la Ley 14 de 1983 expresa:
+            p Este impuesto lo pagan las personas naturales y jurídicas que desarrollan alguna actividad industrial, comercial o prestación de servicios. Es un impuesto territorial, lo que significa que cada municipio tiene su propia regulación. El artículo 32 de la Ley 14 de 1983 expresa: 
             .col-lg-9
               hr.hr.my-3
               .row.justify-content-center
@@ -207,10 +207,10 @@
 
             p.mb-3 El ICA cuenta con dos regímenes:
             p.ps-lg-5.ps-4 Común. Este impuesto grava a todas las personas jurídicas que ejercen actividades industriales, comerciales o de servicios, de manera permanente o parcial, así como a personas naturales que no cumplan los requisitos para pertenecer al régimen simplificado. Se declara y paga cada dos meses.
-            p.ps-lg-5.ps-4 Simplificado, que aplica a personas que cumplen con unas ciertas características, como que sus ingresos brutos totales en el año  anterior hayan sido inferiores a 4000 unidades de valor tributario (UVT); que sus transacciones financieras en consignaciones, depósitos o inversiones no superen las 4500 UVT; que tengan máximo un lugar donde ejercen su actividad económica bien sea oficina, establecimiento, local, sede o negocio; no haber tenido contratos el año anterior que superen los 3300 UVT, y que no desarrollen actividades bajo franquicia, regalía o cualquier sistema que implique explotación de intangibles.
+            p.ps-lg-5.ps-4 Simplificado: aplica a personas que cumplen con unas ciertas características, como que, sus ingresos brutos totales en el año  anterior hayan sido inferiores a 4000 unidades de valor tributario (UVT); que sus transacciones financieras en consignaciones, depósitos o inversiones no superen las 4500 UVT; que tengan máximo un lugar donde ejercen su actividad económica bien sea oficina, establecimiento, local, sede o negocio; no haber tenido contratos el año anterior que superen los 3300 UVT, y que no desarrollen actividades bajo franquicia, regalía o cualquier sistema que implique explotación de intangibles.  
 
           .row.justify-content-center.p-lg-4(titulo="Retención en la fuente")
-            p También conocido como retefuente, se cobra en el momento de hacer una operación de pago, es decir, es el recaudo anticipado de un impuesto, como el impuesto a las ventas o el de industria comercio. Quienes declaran cada mes la retención en la fuente son personas naturales o jurídicas clasificadas como agentes de retención, entre ellos los fondos de pensiones, los fondos de inversión, los fondos de valores y los comerciantes. Estos agentes deben hacer la retención, declarar, consignar lo retenido, expedir los respectivos certificados y guardar los soportes. Los bancos también hacen retención en la fuente cuando aplica a cuentas de ahorro o corrientes el cuatro por mil, impuesto que veremos a continuación.
+            p También conocido como retefuente, se cobra en el momento de hacer una operación de pago, es decir, es el recaudo anticipado de un impuesto, como el impuesto a las ventas o el de industria y comercio. Quienes declaran cada mes la retención en la fuente son personas naturales o jurídicas clasificadas como agentes de retención, entre ellos, los fondos de pensiones, los fondos de inversión, los fondos de valores y los comerciantes. Estos agentes deben hacer la retención, declarar, consignar lo retenido, expedir los respectivos certificados y guardar los soportes. Los bancos también hacen retención en la fuente, cuando aplica a cuentas de ahorro o corrientes el cuatro por mil, impuesto que veremos, a continuación.
             p Le invitamos a ver el video que explica cómo diligenciar el formulario de retención en la fuente (SENA, 2021e) 
             .col-lg-8
               figure
@@ -218,7 +218,7 @@
                   iframe(width="560" height="315" src="https://www.youtube.com/embed/Nu0so84PvI8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
           .row.justify-content-center.p-lg-4(titulo="El gravamen a movimientos financieros (o cuatro por mil) ")
-            p Este es un impuesto que desde el año 2001 lo pagan tanto personas naturales como jurídicas por cada transacción financiera que hagan con un banco. Lo descuentan y retienen todas las entidades bancarias supervisadas por el Banco de la República y por la Superintendencia Bancaria. Se denomina cuatro por mil porque por cada mil pesos en cualquier movimiento financiero se pagan cuatro pesos.
+            p Este es un impuesto que, desde el año 2001, lo pagan tanto personas naturales como jurídicas por cada transacción financiera que hagan con un banco. Lo descuentan y retienen todas las entidades bancarias supervisadas por el Banco de la República y por la Superintendencia Bancaria. Se denomina cuatro por mil porque, por cada mil pesos en cualquier movimiento financiero se pagan cuatro pesos.
             p Las transacciones financieras que aplican este impuesto son:
             ul.lista-ul--color.ps-3
               li 

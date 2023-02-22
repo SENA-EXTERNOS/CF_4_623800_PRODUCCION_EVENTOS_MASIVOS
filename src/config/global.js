@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Presupuesto de los eventos',
     descripcionCurso:
-      'Un factor importante en la organización de eventos tiene que ver con el presupuesto que se va a ejecutar, para lo cual se requiere la ficha técnica, revisar costos, gastos y en algunos casos, conseguir apoyos a través de alianzas o patrocinios, con el fin de que la inversión no recaiga únicamente en la empresa pionera o líder del evento.',
+      'Un factor importante en la organización de eventos es el presupuesto que se va a ejecutar, lo cual requiere generar la ficha técnica, revisar costos, gastos y, en algunos casos, conseguir apoyo a través de alianzas o patrocinios; con el fin de que la inversión no recaiga únicamente en la empresa pionera o líder del evento.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Franquicia',
       significado:
-        'Tipo de negociación donde una empresa, consolidada en el mercado, concede a otra el derecho de usar su nombre, logo y demás particularidades de comercialización en condiciones específicas, guardando su imagen en un territorio determinado a cambio de un beneficio financiero.',
+        'Tipo de negociación en la que una empresa, consolidada en el mercado, concede a otra el derecho de usar su nombre, logo y demás particularidades de comercialización en condiciones específicas, guardando su imagen en un territorio determinado a cambio de un beneficio financiero.',
     },
     {
       termino: 'Gasto',
@@ -234,7 +234,7 @@ export default {
     {
       termino: 'Trueque',
       significado:
-        'Intercambio de bienes o servicios según las necesidades, entre dos o más partes, buscando el beneficio mutuo que no está relacionado con dinero.',
+        'Intercambio de bienes o servicios según las necesidades, entre dos o más partes, en el que se busca el beneficio mutuo que no está relacionado con dinero.',
     },
     {
       termino: 'Unidad de valor tributario (UVT)',
@@ -245,183 +245,181 @@ export default {
   referencias: [
     {
       referencia:
-        'Blog | Broseta, A. (2020, 30 de enero). “¿Qué son los impuestos?” [blog] Rankia.',
+        'Broseta, A. (2020, 30 de enero). ¿Qué son los impuestos? [blog] <i>Rankia</i>.',
       link: 'https://www.rankia.co/blog/dian/3687409-que-son-impuestos',
     },
     {
       referencia:
-        'Página web | Calendario Tributario (s. f.). “¿Qué grava el impuesto de timbre nacional?”. Calendario Tributario. ',
+        'Calendario Tributario (s. f.). <i>¿Qué grava el impuesto de timbre nacional?</i> Calendario Tributario. ',
       link: 'https://calendariotributario.org/impuesto-de-timbre/.',
     },
     {
       referencia:
-        'Blog | Clavijo, C. (2022). “Fijación de precios. Definición, factores y objetivos” [blog]. HubSpot.',
+        'Clavijo, C. (2022). Fijación de precios. Definición, factores y objetivos [blog]. <i>HubSpot.</i>',
       link: 'https://blog.hubspot.es/sales/que-es-fijacion-de-precios',
     },
     {
       referencia:
-        'Decreto | Colombia, Presidencia de la República (2012, 14 de junio). Decreto 1258 de 2012 “por el cual se reglamenta la Ley 1493 de 2011”. D. O. 48 461. ',
+        'Colombia, Presidencia de la República (2012, 14 de junio). Decreto 1258 de 2012 “por el cual se reglamenta la Ley 1493 de 2011”. D. O. 48 461. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47809.',
     },
     {
       referencia:
-        'Decreto | Colombia, Presidencia de la República (2013, 14 de junio). Decreto 1240 de 2013 “por el cual se reglamenta la Ley 1493 de 2011, se modifica el Decreto 1258 de 2012 y se dictan otras disposiciones”. D. O. 48821. ',
+        'Colombia, Presidencia de la República (2013, 14 de junio). Decreto 1240 de 2013 “por el cual se reglamenta la Ley 1493 de 2011, se modifica el Decreto 1258 de 2012 y se dictan otras disposiciones”. D. O. 48821. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=53508.',
     },
     {
       referencia:
-        'Decreto | Colombia, Presidencia de la República (2016, 11 de octubre). Decreto 1625 de 2016 “por medio del cual se expide el Decreto Único Reglamentario en materia tributaria”. D. O. 50023.',
+        'Colombia, Presidencia de la República (2016, 11 de octubre). Decreto 1625 de 2016 “por medio del cual se expide el Decreto Único Reglamentario en materia tributaria”. D. O. 50023. ',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83233.',
     },
     {
       referencia:
-        'Página web | Coma, M. (2020). “El presupuesto de un evento: cómo calcularlo, tipos y consejos”. Differentia events.',
+        'Coma, M. (2020). <i>El presupuesto de un evento: cómo calcularlo, tipos y consejos</i>. Differentia events.',
       link:
         'https://www.differentiaevents.com/como-calcular-presupuesto-organizar-evento/.',
     },
     {
-      referencia: 'Página web | ConceptoABC (s. f.). “Utilidad”. ConceptoABC.',
+      referencia: 'ConceptoABC (s. f.). <i>Utilidad</i>. ConceptoABC.',
       link: 'https://conceptoabc.com/utilidad/.',
     },
     {
       referencia:
-        'Ley | Congreso de Colombia (1982, 28 de enero). Ley 23 de 1982 “sobre derechos de autor”. D. O. 35 949.',
+        'Congreso de Colombia (1982, 28 de enero). Ley 23 de 1982 “sobre derechos de autor”. D. O. 35 949.',
       link: 'https://bit.ly/3eUEInR.',
     },
     {
       referencia:
-        'Ley | Congreso de Colombia (1983, 6 de julio). Ley 14 de 1983 “por la cual se fortalecen los fiscos de las entidades territoriales y se dictan otras disposiciones”. D. O. 36 288.',
+        'Congreso de Colombia (1983, 6 de julio). Ley 14 de 1983 “por la cual se fortalecen los fiscos de las entidades territoriales y se dictan otras disposiciones”. D. O. 36 288.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=267.',
     },
     {
       referencia:
-        'Ley | Congreso de Colombia (2011, 26 de diciembre). Ley 1493 de 2011 “por la cual se toman medidas para formalizar el sector del espectáculo público de las artes escénicas, se otorgan competencias de inspección, vigilancia y control sobre las sociedades de gestión colectiva y se dictan otras disposiciones”. D. O. 48294.',
+        'Congreso de Colombia (2011, 26 de diciembre). Ley 1493 de 2011 “por la cual se toman medidas para formalizar el sector del espectáculo público de las artes escénicas, se otorgan competencias de inspección, vigilancia y control sobre las sociedades de gestión colectiva y se dictan otras disposiciones”. D. O. 48294.',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=45246.',
     },
     {
       referencia:
-        'Página web | Editorial Grudemi (2020). “Alianzas estratégicas”. Enciclopedia Económica. Última actualización: agosto 2022',
+        'Editorial Grudemi (2020). <i>Alianzas estratégicas</i>. Enciclopedia Económica. Última actualización: agosto 2022 ',
       link: 'https://enciclopediaeconomica.com/alianzas-estrategicas/.',
     },
     {
       referencia:
-        'Página web | Equipo Editorial Etecé (2021, 5 de agosto). “Utilidad”. Equipo Editorial Etecé.',
+        'Equipo Editorial Etecé (2021, 5 de agosto).<i> Utilidad</i>. Equipo Editorial Etecé. ',
       link: 'https://concepto.de/utilidad-2/.',
     },
     {
       referencia:
-        'Blog | Equipo EventMobi. (2022, 13 de febrero). “Conceptos básicos del presupuesto del evento: todo lo que necesita saber” [blog]. Eventmobi.',
+        'Equipo EventMobi. (2022, 13 de febrero). Conceptos básicos del presupuesto del evento: todo lo que necesita saber [blog]. <i>Eventmobi</i>.',
       link: 'https://www.eventmobi.com/blog/event-budget-basics/.',
     },
     {
       referencia:
-        'Blog | Equipo Ineventos (s. f.). “Cómo elaborar el presupuesto para un evento” [blog]. Ineventos.',
+        'Equipo Ineventos (s. f.). Cómo elaborar el presupuesto para un evento [blog]. <i>Ineventos</i>.',
       link: 'https://www.ineventos.co/blog/el-presupuesto-de-un-evento.html.',
     },
     {
       referencia:
-        'Página Web | Gerencie.com (2021). “Declaración del impuesto a las ventas (IVA)”. Gerencie.com.',
+        'Gerencie.com (2021). Declaración del impuesto a las ventas (IVA). <i>Gerencie.com.</i>',
       link:
         'https://www.gerencie.com/declaracion-del-impuesto-a-las-ventas.html#Quien_estan_obligados_a_presentar_la_declaracion_de_Iva.',
     },
     {
       referencia:
-        'Página web | González, A. (2022). “Todo lo que necesitas saber del presupuesto de un evento”. Orquidea Technology Group.',
+        'González, A. (2022). <i>Todo lo que necesitas saber del presupuesto de un evento</i>. Orquidea Technology Group.',
       link:
         'https://orquideatech.com/todo-lo-que-necesitas-saber-del-presupuesto-de-un-evento/.',
     },
     {
       referencia:
-        'Libro | Jiménez, M. y Panizo, J. (2017). <i>Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales.</i> Editorial UOC.',
-      link: '',
+        'Jiménez, M. y Panizo, J. (2017). <i>Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales</i>. Editorial UOC.',
     },
     {
       referencia:
-        'Blog | Meetmaps. (2018, febrero 28). “Diferentes maneras de financiar tu evento” [blog]. Meetmaps.',
+        'Meetmaps. (2018, febrero 28). Diferentes maneras de financiar tu evento [blog]. <i>Meetmaps</i>.',
       link:
         'https://blog.meetmaps.com/diferentes-maneras-de-financiar-tu-evento/.',
     },
     {
       referencia:
-        'Libro | Navarro, L. (2018). <i>Planificación, organización y control de eventos.</i> IC Editorial.',
-      link: '',
+        'Navarro, L. (2018). <i>Planificación, organización y control de eventos</i>. IC Editorial.',
     },
     {
       referencia:
-        'Página web | Orellana, P. (2021). “Alianza estratégica”. Economipedia.com.',
+        'Orellana, P. (2021). <i>Alianza estratégica</i>. Economipedia.com.',
       link: 'https://economipedia.com/definiciones/alianza-estrategica.html.',
     },
     {
       referencia:
-        'Página web | Ortega, F. (2022). “Guía para crear el presupuesto de un evento”. Ingenieriademenu.com.',
+        'Ortega, F. (2022). <i>Guía para crear el presupuesto de un evento</i>. Ingenieriademenu.com.',
       link: 'https://ingenieriademenu.com/presupuesto-de-un-evento/.',
     },
     {
       referencia:
-        'Página web | Piturda.com (s. f.). “Presupuesto para organizar un evento: qué tener en cuenta”. Piturda.com.',
+        'Piturda.com (s. f.). <i>Presupuesto para organizar un evento: qué tener en cuenta</i>. Piturda.com.',
       link:
         'https://piturda.com/para-promotores/presupuesto-para-organizar-un-evento-que-tener-en-cuenta/.',
     },
     {
       referencia:
-        'Página web | Redacción Topcomunicación (2020). Conoce cuáles son los principales tipos de patrocinio. Topcomunicación & RR. PP.',
+        'Redacción Topcomunicación (2020). <i>Conoce cuáles son los principales tipos de patrocinio</i>. Topcomunicación & RR. PP.',
       link:
         'https://www.topcomunicacion.com/tipos-de-patrocinio-clasificacion-de-patrocinadores/.',
     },
     {
       referencia:
-        'Página web | Saber Más, Ser Más (s. f.). <i>¿Qué es el IVA?</i> Asobancaria, Saber Más, Ser más.',
+        'Saber Más, Ser Más (s. f.). <i>¿Qué es el IVA?</i> Asobancaria, Saber Más, Ser más.',
       link: 'https://www.sabermassermas.com/que-es-el-iva/.',
     },
     {
       referencia:
-        'Video | Servicio Nacional de Aprendizaje [SENA] (2020). “Flujos de caja” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje [SENA] (2020). “Flujos de caja” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://www.youtube.com/watch?v=4ob5QS5a44w.',
     },
     {
       referencia:
-        'Video | Servicio Nacional de Aprendizaje [SENA] (2021a). “Tipos de precios” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje [SENA] (2021a). “Tipos de precios” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://www.youtube.com/watch?v=_cXcHSVingo.',
     },
     {
       referencia:
-        'Video | Servicio Nacional de Aprendizaje [SENA] (2021b). “Cálculo ROI” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje [SENA] (2021b). “Cálculo ROI” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://www.youtube.com/watch?v=PQR2ywfYTEI.',
     },
     {
       referencia:
-        'Video | Servicio Nacional de Aprendizaje [SENA] (2021c). “Historia de los impuestos” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje [SENA] (2021c). “Historia de los impuestos” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://www.youtube.com/watch?v=HL9RtAhdPAY.',
     },
     {
       referencia:
-        'Video | Servicio Nacional de Aprendizaje [SENA] (2021d). “Formulario 300. Declaración de IVA”. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje [SENA] (2021d). “Formulario 300. Declaración de IVA”. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://www.youtube.com/watch?v=rNQHO71sACo.',
     },
     {
       referencia:
-        'Video | Servicio Nacional de Aprendizaje [SENA] (2021e). “Formulario 350. Retención en la fuente” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
+        'Servicio Nacional de Aprendizaje [SENA] (2021e). “Formulario 350. Retención en la fuente” [video]. Ecosistema de Recursos Educativos Digitales SENA.',
       link: 'https://www.youtube.com/watch?v=Nu0so84PvI8.',
     },
     {
       referencia:
-        'Página web | Vivetix (2020). “¿Cómo conseguir patrocinadores para un evento?” [blog]. Vivetix.',
+        'Vivetix (2020). <i>¿Cómo conseguir patrocinadores para un evento?</i> [blog]. Vivetix.',
       link: 'https://vivetix.com/f/p/b/como-conseguir-patrocinadores-evento#_.',
     },
     {
       referencia:
-        'Blog | Weezevent (2020, mayo 26). “12 ideas para optimizar y perpetuar los ingresos de tu evento” [blog]. Weezevent.',
+        'Weezevent (2020, mayo 26). 12 ideas para optimizar y perpetuar los ingresos de tu evento [blog]. <i>Weezevent</i>.',
       link:
         'https://weezevent.com/es/blog/ideas-optimizar-perpetuar-ingresos-evento/.',
     },
     {
       referencia:
-        'Blog | Wong, M. (2019, abril 18). “Cómo desarrollar un presupuesto de evento para tu reunión o evento” [blog]. Eventmobi.',
+        'Wong, M. (2019, abril 18). Cómo desarrollar un presupuesto de evento para tu reunión o evento [blog]. <i>Eventmobi.</i>',
       link:
         'https://www.eventmobi.com/es/blog/como-desarrollar-un-presupuesto-de-evento-para-tu-reunion-o-evento/#:~:text=El%20presupuesto%20de%20tu%20evento,podr%C3%ADan%20cambiar%20con%20el%20tiempo.',
     },

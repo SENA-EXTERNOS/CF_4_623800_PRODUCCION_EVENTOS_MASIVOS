@@ -58,7 +58,7 @@
             .col-lg-5.mt-5
               p #[strong Sobre derechos de autor:] Protege las formas literarias, plásticas o sonoras que recogen, describen, ilustran o explican las ideas científicas y las obras literarias y artísticas.
               p La ley protege los derechos morales, los derechos patrimoniales y su duración. Los primeros son, a grandes rasgos y entre otros, el derecho de paternidad (que el nombre del autor o su seudónimo siempre aparezca al pie de la obra, a menos que él no lo desee); de integridad (que la obra se conozca tal y como la concibió el autor), y de divulgación (el autor es el único que puede decidir si quiere que el público conozca o no su obra).
-              p Los derechos patrimoniales son aquellos que le permiten al autor controlar aspectos económicos de su obra durante su vida, y en Colombia, ochenta años después de su muerte.
+              p Los derechos patrimoniales son aquellos que permiten controlar aspectos económicos de una obra, durante la vida del autor y, en Colombia, ochenta años después de su muerte. 
               p Le sugerimos consultar muy bien esta ley y visitar la página web de la Dirección Nacional de Derechos de Autor 
               a.anexo.mb-4.mb-lg-0(href="http://derechodeautor.gov.co:8080/campus-virtual," target="_blank")
                 .anexo__icono
@@ -68,7 +68,7 @@
               p donde además de encontrar información sobre el tema, también puede tomar de manera gratuita cursos al respecto.
 
     .row.my-5
-      p.text-center A continuación, encuentra una plantilla para la elaboración del presupuesto de un evento:
+      p.text-center A continuación, encontrará una plantilla para la elaboración del presupuesto de un evento, la cual le puede servir de guía: 
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -79,8 +79,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 1_ Plantilla evento Excel
-                  p (tomada de Ingenieradmenu.com) que puede servir de guía.
+                  h4.mb-1 Anexo 1_ Plantilla evento Excel
+                  p (tomada de Ingenieradmenu.com)
                 .col-sm-auto.texto-izquierda
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/anexo1_ Plantilla_PresupuestoEvento.XLS')" target="_blank")
                     span Descargar
