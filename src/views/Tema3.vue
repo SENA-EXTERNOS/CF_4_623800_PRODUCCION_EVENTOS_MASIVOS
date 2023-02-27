@@ -177,11 +177,11 @@
 
           .tarjeta.color-primario.p-3(x="28%" y="18%" numero="+")
             h4.mb-2.text-center #[i Join ventures]
-            p Se une dos o varias empresas para formar una.
+            p Se unen dos o varias empresas para formar una.
 
           .tarjeta.color-primario.p-3(x="30%" y="40%" numero="+")
             h4.mb-2.text-center Alianza de distribución
-            p Acuerdo entre dos o más para la distribución de sus productos o servicios.
+            p Acuerdo entre dos o más partes para la distribución de sus productos o servicios.
 
           .tarjeta.color-primario.p-3(x="66%" y="32%" numero="+")
             h4.mb-2.text-center Alianza de producción

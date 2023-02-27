@@ -184,16 +184,16 @@
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
-                  | Los <b>costos fijos</b> son el alquiler del salón y el maestro de ceremonias, puesto que, su precio no varía según el número de personas que asisten al evento.
+                  p.mb-0 Los <b>costos fijos</b> son el alquiler del salón y el maestro de ceremonias, puesto que, su precio no varía según el número de personas que asisten al evento.
                 li 
                   i.fas.fa-check
-                  | Los <b>costos variables</b> son los precios correspondientes al alojamiento, el cóctel y los pasabocas, puesto que, el precio varía según el número de personas que asisten al evento.
+                  p.mb-0 Los <b>costos variables</b> son los precios correspondientes al alojamiento, el cóctel y los pasabocas, puesto que, el precio varía según el número de personas que asisten al evento.
                 li 
                   i.fas.fa-check
-                  | Los <b>ostos directos</b> son todos los relacionados directamente con el evento, esto son, el alquiler del salón, el alojamiento, el cóctel, los pasabocas y el maestro de ceremonias.
+                  p.mb-0 Los <b>ostos directos</b> son todos los relacionados directamente con el evento, esto son, el alquiler del salón, el alojamiento, el cóctel, los pasabocas y el maestro de ceremonias.
                 li 
                   i.fas.fa-check
-                  | Los <b>costos indirectos</b> son los servicios de la oficina y el sueldo de los empleados de la empresa organizadora del evento. 
+                  p.mb-0 Los <b>costos indirectos</b> son los servicios de la oficina y el sueldo de los empleados de la empresa organizadora del evento. 
 
             .col-lg-6.mt-4
               figure
