@@ -19,7 +19,7 @@
     .row.my-5(data-aos="fade-up")
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/ze6q5iwjEj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.my-5
       p Teniendo claros los conceptos anteriores, ahora veamos las clasificaciones de los patrocinios y los diferentes tipos de alianzas. 
