@@ -14,7 +14,7 @@
         )
         .bloque-texto-g1__texto.p-2
           p.mb-3 Para elaborar un presupuesto de eventos es importante tener claro cuáles son todos los elementos que se requieren para su desarrollo e implementación en cada una de sus fases, con el fin de establecer con mucha claridad todos los rubros que se necesitan para llevarlo a cabo con éxito. Estos se verán a continuación. 
-          b.mt-3 Costo o costes
+          b.mt-3 Costo o costos
           p.mt-3 Para definir el costo del servicio de organización de eventos, se deben determinar los recursos requeridos para prestarlo y todos los aspectos exigibles de este, así como todo lo que el organizador debe contemplar para sus gastos de mantenimiento.
 
     .row.my-5
@@ -190,7 +190,7 @@
                   p.mb-0 Los <b>costos variables</b> son los precios correspondientes al alojamiento, el cóctel y los pasabocas, puesto que, el precio varía según el número de personas que asisten al evento.
                 li 
                   i.fas.fa-check
-                  p.mb-0 Los <b>ostos directos</b> son todos los relacionados directamente con el evento, esto son, el alquiler del salón, el alojamiento, el cóctel, los pasabocas y el maestro de ceremonias.
+                  p.mb-0 Los <b>costos directos</b> son todos los relacionados directamente con el evento, esto son, el alquiler del salón, el alojamiento, el cóctel, los pasabocas y el maestro de ceremonias.
                 li 
                   i.fas.fa-check
                   p.mb-0 Los <b>costos indirectos</b> son los servicios de la oficina y el sueldo de los empleados de la empresa organizadora del evento. 
@@ -276,7 +276,7 @@
       .col-lg-6
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--amarilla2")
           .row(titulo="Utilidad marginal")
-            p Utilidad marginal: es la <b>disminución de la satisfacción por el consumo de un bien o servicio</b>. Para una mayor claridad, vamos a ver un ejemplo: cuando se tiene un antojo de comer chocolates y se compra una caja, el primero de estos dará una gran satisfacción, pero a medida que se van comiendo, el deseo va disminuyendo hasta llegar al punto de satisfacción, y, por lo tanto, no se seguirán consumiendo.
+            p Es la <b>disminución de la satisfacción por el consumo de un bien o servicio</b>. Para una mayor claridad, vamos a ver un ejemplo: cuando se tiene un antojo de comer chocolates y se compra una caja, el primero de estos dará una gran satisfacción, pero a medida que se van comiendo, el deseo va disminuyendo hasta llegar al punto de satisfacción, y, por lo tanto, no se seguirán consumiendo.
           
           .row(titulo="Utilidad total (o bruta)")
             p Es la que se obtiene del total de las ventas de un producto durante un periodo fijo, luego de restar los costos y gastos para producirlo durante ese mismo periodo.

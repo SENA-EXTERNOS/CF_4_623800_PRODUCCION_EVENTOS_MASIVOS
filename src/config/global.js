@@ -321,7 +321,7 @@ export default {
     {
       referencia:
         'Equipo Ineventos (s. f.). Cómo elaborar el presupuesto para un evento [blog]. <i>Ineventos</i>.',
-      link: 'https://www.ineventos.co/blog/el-presupuesto-de-un-evento.html.',
+      link: 'https://www.ineventos.es/blog/el-presupuesto-de-un-evento.html',
     },
     {
       referencia:
@@ -338,6 +338,7 @@ export default {
     {
       referencia:
         'Jiménez, M. y Panizo, J. (2017). <i>Eventos y protocolo: la gestión estratégica de actos corporativos e institucionales</i>. Editorial UOC.',
+      link: 'https://www.torrossa.com/digital/toc/2017/3938065_TOC.pdf',
     },
     {
       referencia:
@@ -348,6 +349,8 @@ export default {
     {
       referencia:
         'Navarro, L. (2018). <i>Planificación, organización y control de eventos</i>. IC Editorial.',
+      link:
+        'https://books.google.com.co/books?id=01IpEAAAQBAJ&pg=PT3&hl=es&source=gbs_toc_r&cad=3#v=onepage&q&f=false',
     },
     {
       referencia:
