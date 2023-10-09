@@ -206,7 +206,7 @@
                     i.fas.fa-quote-right.color-vineta.texto-derecha
 
             p.mb-3 El ICA cuenta con dos regímenes:
-            p.ps-lg-5.ps-4 Común. Este impuesto grava a todas las personas jurídicas que ejercen actividades industriales, comerciales o de servicios, de manera permanente o parcial, así como a personas naturales que no cumplan los requisitos para pertenecer al régimen simplificado. Se declara y paga cada dos meses.
+            p.ps-lg-5.ps-4 Común: este impuesto grava a todas las personas jurídicas que ejercen actividades industriales, comerciales o de servicios, de manera permanente o parcial, así como a personas naturales que no cumplan los requisitos para pertenecer al régimen simplificado. Se declara y paga cada dos meses.
             p.ps-lg-5.ps-4 Simplificado: aplica a personas que cumplen con unas ciertas características, como que, sus ingresos brutos totales en el año  anterior hayan sido inferiores a 4000 unidades de valor tributario (UVT); que sus transacciones financieras en consignaciones, depósitos o inversiones no superen las 4500 UVT; que tengan máximo un lugar donde ejercen su actividad económica bien sea oficina, establecimiento, local, sede o negocio; no haber tenido contratos el año anterior que superen los 3300 UVT, y que no desarrollen actividades bajo franquicia, regalía o cualquier sistema que implique explotación de intangibles.  
 
           .row.justify-content-center.p-lg-4(titulo="Retención en la fuente")
